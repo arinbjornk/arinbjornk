@@ -6,7 +6,7 @@
 
 💞️ I’m looking to collaborate on development of models, tools and libraries on machine learning in health.
 
-📫 How to reach me on twitter [@arinbjornkol](https://twitter.com/arinbjornkol)\
+📫 You can reach me on twitter [@arinbjornkol](https://twitter.com/arinbjornkol)
 
 <!---
 arinbjornk/arinbjornk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
